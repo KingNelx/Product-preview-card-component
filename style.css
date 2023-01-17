@@ -20,9 +20,8 @@ img {
 }
 
 .h2-1 {
-    font-size: 32px;
-    margin-left: 5%;
-    margin-right: 10px;
+    font-size: 35px;
+    margin-left: 15%;
 }
 
 .p-2 {
@@ -42,6 +41,7 @@ img {
 
 .col-1{
     font-weight: bolder;
+    color:darkolivegreen;
 }
 
 .col-2{
@@ -54,9 +54,11 @@ img {
 
 button{
     margin-bottom: 4vh;
-    background-color: darkgreen;
+    background-color: green;
     border-radius: 5px;
-    font-size: 20px;
+    font-size: 15px;
+    color: white;
+    width: 70%;
 }
 
 .f-button img{
